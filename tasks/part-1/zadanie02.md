@@ -1,0 +1,2 @@
+# Zadanie 2
+Na **serwerze 1** utwórz lokalne repozytorium z pakietem **nano** (pobierz go np. stąd - http://rpmfind.net/linux/opensuse/distribution/leap/15.4/repo/oss/x86_64/nano-5.9-bp154.1.53.x86_64.rpm). Repozytorium powinno być podpisane za pomocą wygenerowanego przez Was klucza GPG. Repozytorium to następnie udostępnij w wybrany przez siebie sposób i dodaj do repozytoriów zyppera na **serwerze 2**.
